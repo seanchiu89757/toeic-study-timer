@@ -4,14 +4,6 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
----
-
-## ✨ Demo & 截圖
-
-
-**線上體驗網址 👉 [點我前往體驗](https://your-github-username.github.io/toeic-study-timer/)**
-
-<br>
 
 **專案截圖**
 ![pic](https://github.com/user-attachments/assets/7a986c57-525a-4140-8420-250fb650e7fc)
